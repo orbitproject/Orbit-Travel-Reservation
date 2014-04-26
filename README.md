@@ -1,4 +1,4 @@
 Orbit-Travel-Reservation
 ========================
 
-Orbit-Travel-Reservation Project for Database Class
+CSE 305 Project for Spring 2014, SBU
